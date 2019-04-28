@@ -5,7 +5,7 @@ Coding Part:
 3. Combine adder and subtractor
 
 
-Report Part：
+Report part：
 1.Question：Analyze the results under different number of digits, training epoch, training size, etc
 Answer：不同的number of digits對準確性沒有什麼影響，但是training epoch, training size的增加會提高準確性。
 2.Question：Can we apply the same training approach for multiplication?
